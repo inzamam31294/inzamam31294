@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inzamam31294
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Frontend frameworks (Reactjs, Vuejs, Nuxtjs etc).
-- 💞️ I’m looking to collaborate on Backend frameworks (Laravel), cloud computing, CI/CD, Devops.
+- 🌱 I’m currently working on Frontend frameworks (Reactjs, Vuejs, Nuxtjs etc).
+- 💞️ I’m looking to collaborate on Backend frameworks (Laravel), NodeJS and cloud computing, CI/CD, Devops.
 - 📫 How to reach me just send me an email on inzamam54321@gmail.com or same email can be found in Linkedin.
 
 <!---
